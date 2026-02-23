@@ -23,27 +23,28 @@ I like experimenting with cutting-edge agentic workflows and techniques, and I a
 
 ## [Pi](https://pi.dev/) Extensions &nbsp; [![packages](https://img.shields.io/badge/pi.dev-packages-8B5CF6?style=flat-square)](https://pi.dev/packages)
 
-- 🐚 **[pi-interactive-shell](https://github.com/nicobailon/pi-interactive-shell)** - Run interactive CLIs in an observable overlay with full PTY emulation. User can take over anytime. `⭐ 237`
-- 🧬 **[pi-subagents](https://github.com/nicobailon/pi-subagents)** - Delegate to child agents with chains, parallel execution, and async dispatch. `⭐ 263`
-- 💬 **[pi-messenger](https://github.com/nicobailon/pi-messenger)** - Multi-agent coordination through the filesystem. Agents join, claim tasks, reserve files, send messages. `⭐ 273`
-- 📋 **[pi-interview-tool](https://github.com/nicobailon/pi-interview-tool)** - Web forms for gathering structured input instead of back-and-forth chat. `⭐ 104`
-- 🔌 **[pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)** - Single proxy tool that discovers MCP servers on demand instead of loading all tool definitions upfront. `⭐ 125`
-- 🌐 **[pi-web-access](https://github.com/nicobailon/pi-web-access)** - Web search and content extraction. Works with Chrome cookies, Perplexity, or Gemini API. `⭐ 118`
-- ⏪ **[pi-rewind-hook](https://github.com/nicobailon/pi-rewind-hook)** - Git-backed checkpoints for AI coding sessions. Browse and restore file states. `⭐ 50`
-- 🎯 **[pi-annotate](https://github.com/nicobailon/pi-annotate)** - Visual annotation mode for Chrome. Click elements, add comments, get CSS selectors and box model info. `⭐ 55`
+- 🐚 **[pi-interactive-shell](https://github.com/nicobailon/pi-interactive-shell)** - Run interactive CLIs in an observable overlay with full PTY emulation. User can take over anytime. `⭐ 239`
+- 🧬 **[pi-subagents](https://github.com/nicobailon/pi-subagents)** - Delegate to child agents with chains, parallel execution, and async dispatch. `⭐ 271`
+- 💬 **[pi-messenger](https://github.com/nicobailon/pi-messenger)** - Multi-agent coordination through the filesystem. Agents join, claim tasks, reserve files, send messages. `⭐ 304`
+- 📋 **[pi-interview-tool](https://github.com/nicobailon/pi-interview-tool)** - Web forms for gathering structured input instead of back-and-forth chat. `⭐ 103`
+- 🔌 **[pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)** - Single proxy tool that discovers MCP servers on demand instead of loading all tool definitions upfront. `⭐ 126`
+- 🌐 **[pi-web-access](https://github.com/nicobailon/pi-web-access)** - Web search and content extraction. Works with Chrome cookies, Perplexity, or Gemini API. `⭐ 131`
+- ⏪ **[pi-rewind-hook](https://github.com/nicobailon/pi-rewind-hook)** - Git-backed checkpoints for AI coding sessions. Browse and restore file states. `⭐ 49`
+- 🎯 **[pi-annotate](https://github.com/nicobailon/pi-annotate)** - Visual annotation mode for Chrome. Click elements, add comments, get CSS selectors and box model info. `⭐ 56`
 - 🧲 **[pi-prompt-template-model](https://github.com/nicobailon/pi-prompt-template-model)** - Model frontmatter in prompt templates so slash commands can auto-switch models. `⭐ 45`
-- 🎨 **[pi-skill-palette](https://github.com/nicobailon/pi-skill-palette)** - Command palette for selecting which skill to inject with your next message. `⭐ 32`
+- 🎨 **[pi-skill-palette](https://github.com/nicobailon/pi-skill-palette)** - Command palette for selecting which skill to inject with your next message. `⭐ 33`
 - 🔁 **[pi-review-loop](https://github.com/nicobailon/pi-review-loop)** - Automated code review loop that re-prompts until no issues found or max iterations hit. `⭐ 28`
-- 📊 **[pi-powerline-footer](https://github.com/nicobailon/pi-powerline-footer)** - Powerline-style status bar with token usage, cost, model, and thinking level. `⭐ 29`
+- 📊 **[pi-powerline-footer](https://github.com/nicobailon/pi-powerline-footer)** - Powerline-style status bar with token usage, cost, model, and thinking level. `⭐ 31`
 - 🔗 **[pi-foreground-chains](https://github.com/nicobailon/pi-foreground-chains)** - Multi-agent workflow orchestration with file-based handoff between different CLI agents. `⭐ 22`
 - 🗺️ **[pi-coordination](https://github.com/nicobailon/pi-coordination)** - Parallel task execution with a dependency graph, worker agents, and review cycles. `⭐ 19`
 - 🔀 **[pi-model-switch](https://github.com/nicobailon/pi-model-switch)** - Lets the agent switch its own model mid-session. `⭐ 19`
+- 🎴 **[pi-design-deck](https://github.com/nicobailon/pi-design-deck)** - Multi-slide visual decision decks in the browser. Compare code, diagrams, and UI mockups side by side. `⭐ 18`
 
 ## Standalone Tools
 
-- 🏄 **[surf-cli](https://github.com/nicobailon/surf-cli)** - CLI for controlling Chrome from any agent. Screenshots, navigation, element interaction. `⭐ 184`
+- 🏄 **[surf-cli](https://github.com/nicobailon/surf-cli)** - CLI for controlling Chrome from any agent. Screenshots, navigation, element interaction. `⭐ 247`
 - 🎙️ **[agent-interview-cli](https://github.com/nicobailon/agent-interview-cli)** - Web forms you can pipe. Opens a browser form, collects responses, outputs JSON to stdout. Zero deps.
-- 📊 **[visual-explainer](https://github.com/nicobailon/visual-explainer)** - Agent skill that generates rich HTML pages for visual diff reviews, architecture overviews, and data tables. `⭐ 2245`
+- 📊 **[visual-explainer](https://github.com/nicobailon/visual-explainer)** - Agent skill that generates rich HTML pages for visual diff reviews, architecture overviews, and data tables. `⭐ 2477`
 
 ## Activity
 
